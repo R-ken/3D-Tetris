@@ -1,0 +1,13 @@
+How to compile the code
+
+- once in the directory, run make
+
+How to run the code
+
+- after it has been compiled, run "./p1"
+
+Game features
+
+1. Press "a" to accelerate the game
+2. press "p" to pause the game
+3. press "r" to restart the game
